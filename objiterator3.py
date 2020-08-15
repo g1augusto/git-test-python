@@ -1,5 +1,3 @@
-##change
-
 class stupidIter:
     alphabet = ["a","b","c","d","e","f","g","h","i","l","m","n","o","p","q","r","s","t","u","w","x","y","z"]
     def __init__(self,n=1):
