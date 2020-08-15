@@ -1,6 +1,3 @@
-"""
-yield returns an ITERATOR OBJECT that can be used in the __iter__ method invoked during an iteration
-"""
 
 class stupidIter:
     alphabet = ["a","b","c","d","e","f","g","h","i","l","m","n","o","p","q","r","s","t","u","w","x","y","z"]
